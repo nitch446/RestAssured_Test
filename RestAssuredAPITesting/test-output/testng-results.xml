@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-01T14:35:01 IST" name="Default suite" finished-at="2025-02-01T14:35:03 IST" duration-ms="2422">
+    <groups>
+    </groups>
+    <test started-at="2025-02-01T14:35:01 IST" name="Default test" finished-at="2025-02-01T14:35:03 IST" duration-ms="2422">
+      <class name="RestAssured_CRUD_Actions.Test_Get_Method">
+        <test-method signature="BDD_Style()[pri:0, instance:RestAssured_CRUD_Actions.Test_Get_Method@14cd1699]" started-at="2025-02-01T14:35:01 IST" name="BDD_Style" finished-at="2025-02-01T14:35:03 IST" duration-ms="2095" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BDD_Style -->
+        <test-method signature="TestGet()[pri:0, instance:RestAssured_CRUD_Actions.Test_Get_Method@14cd1699]" started-at="2025-02-01T14:35:03 IST" name="TestGet" finished-at="2025-02-01T14:35:03 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGet -->
+      </class> <!-- RestAssured_CRUD_Actions.Test_Get_Method -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
