@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RestAssured_CRUD_Actions.Test_Get_Method">
+      <class name="ValidateJSONResponseBody.ValidateJSON_ContainString">
         <methods>
-          <include name="BDD_Style"/>
+          <include name="JSON_ContainString"/>
         </methods>
-      </class> <!-- RestAssured_CRUD_Actions.Test_Get_Method -->
+      </class> <!-- ValidateJSONResponseBody.ValidateJSON_ContainString -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

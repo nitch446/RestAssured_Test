@@ -1,21 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-01T14:35:01 IST" name="Default suite" finished-at="2025-02-01T14:35:03 IST" duration-ms="2422">
+  <suite started-at="2025-02-02T14:38:17 IST" name="Default suite" finished-at="2025-02-02T14:38:21 IST" duration-ms="3907">
     <groups>
     </groups>
-    <test started-at="2025-02-01T14:35:01 IST" name="Default test" finished-at="2025-02-01T14:35:03 IST" duration-ms="2422">
-      <class name="RestAssured_CRUD_Actions.Test_Get_Method">
-        <test-method signature="BDD_Style()[pri:0, instance:RestAssured_CRUD_Actions.Test_Get_Method@14cd1699]" started-at="2025-02-01T14:35:01 IST" name="BDD_Style" finished-at="2025-02-01T14:35:03 IST" duration-ms="2095" status="PASS">
+    <test started-at="2025-02-02T14:38:17 IST" name="Default test" finished-at="2025-02-02T14:38:21 IST" duration-ms="3907">
+      <class name="ValidateJSONResponseBody.ValidateJSON_ContainString">
+        <test-method signature="JSON_ContainString()[pri:0, instance:ValidateJSONResponseBody.ValidateJSON_ContainString@76505305]" started-at="2025-02-02T14:38:17 IST" name="JSON_ContainString" finished-at="2025-02-02T14:38:21 IST" duration-ms="3841" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- BDD_Style -->
-        <test-method signature="TestGet()[pri:0, instance:RestAssured_CRUD_Actions.Test_Get_Method@14cd1699]" started-at="2025-02-01T14:35:03 IST" name="TestGet" finished-at="2025-02-01T14:35:03 IST" duration-ms="281" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TestGet -->
-      </class> <!-- RestAssured_CRUD_Actions.Test_Get_Method -->
+        </test-method> <!-- JSON_ContainString -->
+      </class> <!-- ValidateJSONResponseBody.ValidateJSON_ContainString -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
