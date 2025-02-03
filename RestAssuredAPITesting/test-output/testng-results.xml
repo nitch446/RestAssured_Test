@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-02-02T14:38:17 IST" name="Default suite" finished-at="2025-02-02T14:38:21 IST" duration-ms="3907">
+  <suite started-at="2025-02-03T16:22:53 IST" name="Default suite" finished-at="2025-02-03T16:22:56 IST" duration-ms="3724">
     <groups>
     </groups>
-    <test started-at="2025-02-02T14:38:17 IST" name="Default test" finished-at="2025-02-02T14:38:21 IST" duration-ms="3907">
-      <class name="ValidateJSONResponseBody.ValidateJSON_ContainString">
-        <test-method signature="JSON_ContainString()[pri:0, instance:ValidateJSONResponseBody.ValidateJSON_ContainString@76505305]" started-at="2025-02-02T14:38:17 IST" name="JSON_ContainString" finished-at="2025-02-02T14:38:21 IST" duration-ms="3841" status="PASS">
+    <test started-at="2025-02-03T16:22:53 IST" name="Default test" finished-at="2025-02-03T16:22:56 IST" duration-ms="3724">
+      <class name="Authenticate_UsingRestAssured.BearerToken">
+        <test-method signature="BearerToken()[pri:0, instance:Authenticate_UsingRestAssured.BearerToken@76505305]" started-at="2025-02-03T16:22:53 IST" name="BearerToken" finished-at="2025-02-03T16:22:56 IST" duration-ms="3669" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- JSON_ContainString -->
-      </class> <!-- ValidateJSONResponseBody.ValidateJSON_ContainString -->
+        </test-method> <!-- BearerToken -->
+      </class> <!-- Authenticate_UsingRestAssured.BearerToken -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
